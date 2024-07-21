@@ -84,10 +84,10 @@ for experiment in experiments:
 
 
 # %%
-display(experiments[1]['pam50'])
-display(experiments[1]['experiment_type'])
-display(experiments[1]['data'])
-display(experiments[1]['design'])
+# display(experiments[1]['pam50'])
+# display(experiments[1]['experiment_type'])
+# display(experiments[1]['data'])
+# display(experiments[1]['design'])
 
 
 # %%
