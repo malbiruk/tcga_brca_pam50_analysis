@@ -15,6 +15,7 @@ Controls:
 ## Data
 
 **HTSeq-FPKM-UQ** data from [here](https://xenabrowser.net/datapages/?cohort=GDC%20TCGA%20Breast%20Cancer%20(BRCA)&removeHub=https%3A%2F%2Fxena.treehouse.gi.ucsc.edu%3A443) was used.
+**PAM50** metadata from [(Lehmann et al., 2016)](https://pubmed.ncbi.nlm.nih.gov/27310713/).
 
 ## Installation
 
