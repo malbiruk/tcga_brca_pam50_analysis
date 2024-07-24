@@ -67,10 +67,10 @@ pip install -r requirements.txt
 
 ## Conclusions
 1. Differential Expression Analysis:
-  - Significant differentially expressed genes (DEGs) were identified when comparing each breast cancer subtype to healthy samples, with Luminal B showing the highest number of DEGs (24.19%) and Luminal A the lowest (17.25%).
-  - Significant differentially expressed genes (DEGs) were identified when comparing each breast cancer subtype to other subtypes combined, with Basal-like showing the highest number of DEGs (14.46%) and Normal-like the lowest (0.58%).
+    - Significant differentially expressed genes (DEGs) were identified when comparing each breast cancer subtype to healthy samples, with Luminal B showing the highest number of DEGs (24.19%) and Luminal A the lowest (17.25%).
+    - Significant differentially expressed genes (DEGs) were identified when comparing each breast cancer subtype to other subtypes combined, with Basal-like showing the highest number of DEGs (14.46%) and Normal-like the lowest (0.58%).
 2. Dimension Reduction and Visualization:
-  - PCA combined with t-SNE provided the best clustering of PAM50 subtypes, while UMAP captured global tendencies better than t-SNE alone.
+    - PCA combined with t-SNE provided the best clustering of PAM50 subtypes, while UMAP captured global tendencies better than t-SNE alone.
 3. Classifier Performance:
-  - Random Forest with 100 estimators was chosen for its balance of performance and computational efficiency, achieving an accuracy of 86% and high precision and recall for most subtypes.
-  - Most of key genes identified through feature importance analysis were found to be biologically relevant and associated with breast cancer prognosis and treatment response.
+    - Random Forest with 100 estimators was chosen for its balance of performance and computational efficiency, achieving an accuracy of 86% and high precision and recall for most subtypes.
+    - Most of key genes identified through feature importance analysis were found to be biologically relevant and associated with breast cancer prognosis and treatment response.
