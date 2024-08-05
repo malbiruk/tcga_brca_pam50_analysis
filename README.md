@@ -4,7 +4,7 @@ This repository contains analysis scripts and notebooks for the TCGA BRCA datase
 
 ## Results
 
-**HTML presentation** with the results is [here](https://insilico-test-task-slides.pages.dev/).
+**HTML presentation** with the results is [here](https://tcga-brca-pam50-slides.pages.dev/).
 
 Controls:
 - **F** to go fullscreen
